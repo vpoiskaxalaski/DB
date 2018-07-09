@@ -1,0 +1,1 @@
+ALTER Table STUDENT ADD POL nchar(1) default 'ì' check (POL in ('ì', 'æ')); 

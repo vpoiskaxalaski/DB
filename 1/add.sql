@@ -1,0 +1,1 @@
+ ALTER TABLE STUDENT ADD Дата_поступления date;
